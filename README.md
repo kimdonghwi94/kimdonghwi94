@@ -22,8 +22,8 @@ Dh Technology Stack
 ![FastApi](https://img.shields.io/badge/FastApi-000000?style=flat&logo=FastApi&locoColor=white)
 ![opencv](https://img.shields.io/badge/OpenCv-5C3EE8?style=flat&logo=Opencv&locoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
 
 ---
 ### Development Tools 
