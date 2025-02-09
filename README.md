@@ -24,7 +24,7 @@ Dh Technology Stack
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
-![StreamLit](https://img.shields.io/badge/Huggingface-FF4B4B?style=flat&logo=Huggingface&logoColor=white)
+![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
 
 ---
 ### Development Tools 
