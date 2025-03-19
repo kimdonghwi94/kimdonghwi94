@@ -35,6 +35,11 @@ Dh Technology Stack
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white)
 
 ---
+### DataBase
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=Blender&logoColor=white)
+![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=Blender&logoColor=white)
+
+---
 ### Version Control
 ![GitLab](https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=gitLab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
