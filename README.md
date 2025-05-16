@@ -5,8 +5,7 @@
 Dh Technology Stack
 --- 
 
-# Porfolid ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-https://dhkims.notion.site/dhkim 
+# [Portfolio ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://dhkims.notion.site/dhkim)
 
 # Skills
 
