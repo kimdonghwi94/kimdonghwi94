@@ -34,6 +34,9 @@ Dh Technology Stack
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white)
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
+![windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white)
+![kiro](https://img.shields.io/badge/kiro-5C3EE8?style=flat-square&logo=kiro&logoColor=white)
 
 ---
 ### DataBase
