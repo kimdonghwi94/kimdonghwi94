@@ -5,7 +5,7 @@
 Dh Technology Stack
 --- 
 
-# [Portfolio ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://dhkims.notion.site/dhkim)
+# [Portfolio ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://kimdonghwi94.github.io/dhkim/)
 
 # Skills
 
