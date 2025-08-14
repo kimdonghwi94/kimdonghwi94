@@ -40,8 +40,8 @@ Dh Technology Stack
 
 ---
 ### DataBase
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=Blender&logoColor=white)
-![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=Blender&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
 ---
 ### Version Control
