@@ -14,6 +14,7 @@ Dh Technology Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-452170?style=flat-square&logo=Csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black)
 
 ---
 ### FrameWorks
@@ -23,8 +24,20 @@ Dh Technology Stack
 ![opencv](https://img.shields.io/badge/OpenCv-5C3EE8?style=flat&logo=Opencv&locoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-000000?style=flat&logo=Langflow&logoColor=white)
+![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
 ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=FastMCP&logoColor=white)
+![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+
+---
+### AI
+![GPT](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757?style=flat&logo=claude&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 ### Development Tools 
@@ -37,11 +50,17 @@ Dh Technology Stack
 ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
 ![windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white)
 ![kiro](https://img.shields.io/badge/kiro-5C3EE8?style=flat-square&logo=kiro&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat-square&logo=poetry&logoColor=0B3D8D)
+![UV](https://img.shields.io/badge/UV-0B100F.svg?style=flat-square&logo=UV&logoColor=#DE5FE9)
 
 ---
 ### DataBase
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Milvus](https://img.shields.io/badge/milvus-4169e1?style=flat-square&logo=milvus&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Mem0](https://img.shields.io/badge/mem0-000000?style=flat&logo=mem0&logoColor=white)
 
 ---
 ### Version Control
@@ -61,6 +80,7 @@ Dh Technology Stack
 ---
 ### Communication 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
 
 ---
 ### Os
