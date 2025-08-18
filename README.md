@@ -87,3 +87,12 @@ Dh Technology Stack
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![MacOs](https://img.shields.io/badge/MacOs-000000?style=flat-square&logo=MacOs&logoColor=white)
+
+---
+# 특허
+- **캐릭터 자동 리깅 생성 장치 및 방법**, 10-2023-0183705 (2023. 12. 15) - 출원
+- **3차원 인체 자세 추정 장치 및 그 방법**, [1020210090378](https://doi.org/10.8080/1020210090378)  (2021. 07. 09) - 등록
+
+---
+# Contributor
+[Awesome MCP](https://github.com/punkpeye/awesome-mcp-servers/pull/1251)
