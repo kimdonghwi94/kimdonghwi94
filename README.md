@@ -30,7 +30,6 @@ Dh Technology Stack
 ![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=FastMCP&logoColor=white)
-![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
 
 ---
 ### AI
