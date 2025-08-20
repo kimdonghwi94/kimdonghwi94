@@ -28,8 +28,7 @@ Dh Technology Stack
 ![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
 ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=FastMCP&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 
 ---
 ### AI
