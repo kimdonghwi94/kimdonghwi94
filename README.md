@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 ### Hi there 👋
 
-Dh Tech Stack
---- 
-
 # [Portfolio ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://kimdonghwi94.github.io/dhkim/)
 
 # Skills
