@@ -1,97 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 ### Hi there 👋
 
-
-Dh Technology Stack
+Dh Tech Stack
 --- 
 
 # [Portfolio ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://kimdonghwi94.github.io/dhkim/)
 
 # Skills
 
----
-### Language
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-452170?style=flat-square&logo=Csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black)
+| Language               | FrameWorks                                | AI                      | Version Control                                     | Communication                                     |
+| :------------------------------------- | ---------------------------------------- | ----------------------------- | ---------------------------------------- | ---------------------------------------- | 
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-452170?style=flat-square&logo=Csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=black) | ![Pytoch](https://img.shields.io/badge/Pytoch-EEEEEE?style=flat&logo=pytorch&locoColor=black) ![Kears](https://img.shields.io/badge/Kears-D00000?style=flat&logo=keras&locoColor=black) ![FastApi](https://img.shields.io/badge/FastApi-000000?style=flat&logo=FastApi&locoColor=white) ![opencv](https://img.shields.io/badge/OpenCv-5C3EE8?style=flat&logo=Opencv&locoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-000000?style=flat&logo=Langflow&logoColor=white) ![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black) ![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white) | ![GPT](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/claude-D97757?style=flat&logo=claude&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-000000?style=flat&logo=ollama&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=gitLab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white) | 
+| **DataBase**              | **Development Tools**                                |  **Project Management**                      |  **Containerization**                                    | **Os**                                    | 
+|![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) ![Milvus](https://img.shields.io/badge/milvus-4169e1?style=flat-square&logo=milvus&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Mem0](https://img.shields.io/badge/mem0-000000?style=flat&logo=mem0&logoColor=white) | ![Pycharm](https://img.shields.io/badge/PyCharm%20IDE-000000?style=flat&logo=Pycharm&locoColor=yellow) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white) ![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white) ![windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white) ![kiro](https://img.shields.io/badge/kiro-5C3EE8?style=flat-square&logo=kiro&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat-square&logo=poetry&logoColor=0B3D8D) ![UV](https://img.shields.io/badge/UV-0B100F.svg?style=flat-square&logo=UV&logoColor=#DE5FE9) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white) ![confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![MacOs](https://img.shields.io/badge/MacOs-000000?style=flat-square&logo=MacOs&logoColor=white) | 
 
 ---
-### FrameWorks
-![Pytoch](https://img.shields.io/badge/Pytoch-EEEEEE?style=flat&logo=pytorch&locoColor=black)
-![Kears](https://img.shields.io/badge/Kears-D00000?style=flat&logo=keras&locoColor=black)
-![FastApi](https://img.shields.io/badge/FastApi-000000?style=flat&logo=FastApi&locoColor=white)
-![opencv](https://img.shields.io/badge/OpenCv-5C3EE8?style=flat&logo=Opencv&locoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-000000?style=flat&logo=Langflow&logoColor=white)
-![langgraph](https://img.shields.io/badge/langgraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
-![StreamLit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
-![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat&logo=HuggingFace&logoColor=black)
-![FastMCP](https://img.shields.io/badge/FastMCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
-
----
-### AI
-![GPT](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-D97757?style=flat&logo=claude&logoColor=white)
-![Perplexity](https://img.shields.io/badge/perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-000000?style=flat&logo=ollama&logoColor=white)
-
----
-### Development Tools 
-![Pycharm](https://img.shields.io/badge/PyCharm%20IDE-000000?style=flat&logo=Pycharm&locoColor=yellow)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
-![windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=flat-square&logo=windsurf&logoColor=white)
-![kiro](https://img.shields.io/badge/kiro-5C3EE8?style=flat-square&logo=kiro&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat-square&logo=poetry&logoColor=0B3D8D)
-![UV](https://img.shields.io/badge/UV-0B100F.svg?style=flat-square&logo=UV&logoColor=#DE5FE9)
-
----
-### DataBase
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4J](https://img.shields.io/badge/neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Milvus](https://img.shields.io/badge/milvus-4169e1?style=flat-square&logo=milvus&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Mem0](https://img.shields.io/badge/mem0-000000?style=flat&logo=mem0&logoColor=white)
-
----
-### Version Control
-![GitLab](https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=gitLab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
----
-### Project Management
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-
----
-### Containerization
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-
----
-### Communication 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)
-
----
-### Os
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![MacOs](https://img.shields.io/badge/MacOs-000000?style=flat-square&logo=MacOs&logoColor=white)
-
----
-# 특허
+# Patent
 - **캐릭터 자동 리깅 생성 장치 및 방법**, 10-2023-0183705 (2023. 12. 15) - 출원
 - **3차원 인체 자세 추정 장치 및 그 방법**, [1020210090378](https://doi.org/10.8080/1020210090378)  (2021. 07. 09) - 등록
 
 ---
 # Contributor
-[Awesome MCP](https://github.com/punkpeye/awesome-mcp-servers/pull/1251)  
-[a2a-samples](https://github.com/a2aproject/a2a-samples/pull/337#issue-3355878718)
+[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/1251), [a2a-samples](https://github.com/a2aproject/a2a-samples/pull/337#issue-3355878718)
