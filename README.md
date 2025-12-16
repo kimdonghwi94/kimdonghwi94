@@ -18,4 +18,4 @@
 
 ---
 # Contributor
-[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/), [a2a-samples](https://github.com/a2aproject/a2a-samples/)
+[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/1251/), [a2a-samples](https://github.com/a2aproject/a2a-samples/pull/337/)
