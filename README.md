@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 ### Hi there 👋
 
-# [Portfolio ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://kimdonghwi94.github.io/dhkim/)
+# [개인 웹페이지 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://kimdonghwi94.github.io/dhkim/)
+# [Portfolio Notion ![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)](https://dhkims.notion.site/1bbdbfaa91b280889e38f2de8090f66f/)
 
 # Skills
 
